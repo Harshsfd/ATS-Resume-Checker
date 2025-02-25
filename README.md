@@ -25,7 +25,7 @@
 ---
 
 ## 📸 **Screenshots**
-*(Replace the below URLs with actual screenshots from your project)*  
+**Input & Output**
 📷 **Main Page:**  
 ![ATS Resume Checker](https://github.com/Harshsfd/ATS-Resume-Checker/blob/main/Without%20output.jpg) 
 
