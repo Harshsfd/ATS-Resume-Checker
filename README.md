@@ -30,7 +30,7 @@
 ![ATS Resume Checker](https://github.com/Harshsfd/ATS-Resume-Checker/blob/main/Without%20output.jpg).  
 
 📷 **Score Calculation:**  
-![ATS Score Result](https://your-image-url.com)  
+![ATS Score Result](https://github.com/Harshsfd/ATS-Resume-Checker/blob/main/With%20Output.jpg).
 
 ---
 
