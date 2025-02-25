@@ -27,7 +27,7 @@
 ## 📸 **Screenshots**
 *(Replace the below URLs with actual screenshots from your project)*  
 📷 **Main Page:**  
-![ATS Resume Checker](https://your-image-url.com)  
+![ATS Resume Checker](https://github.com/Harshsfd/ATS-Resume-Checker/blob/main/Without%20output.jpg).  
 
 📷 **Score Calculation:**  
 ![ATS Score Result](https://your-image-url.com)  
