@@ -27,10 +27,10 @@
 ## 📸 **Screenshots**
 *(Replace the below URLs with actual screenshots from your project)*  
 📷 **Main Page:**  
-![ATS Resume Checker](https://github.com/Harshsfd/ATS-Resume-Checker/blob/main/Without%20output.jpg).  
+![ATS Resume Checker](https://github.com/Harshsfd/ATS-Resume-Checker/blob/main/Without%20output.jpg) 
 
 📷 **Score Calculation:**  
-![ATS Score Result](https://github.com/Harshsfd/ATS-Resume-Checker/blob/main/With%20Output.jpg).
+![ATS Score Result](https://github.com/Harshsfd/ATS-Resume-Checker/blob/main/With%20Output.jpg)
 
 ---
 
